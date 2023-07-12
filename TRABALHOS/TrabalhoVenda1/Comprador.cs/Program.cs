@@ -1,0 +1,1 @@
+﻿Comprador comprador = new Comprador("Maria", 2000.0);

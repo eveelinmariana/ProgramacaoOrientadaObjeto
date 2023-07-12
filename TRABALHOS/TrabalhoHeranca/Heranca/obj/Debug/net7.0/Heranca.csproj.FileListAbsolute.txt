@@ -1,0 +1,15 @@
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\bin\Debug\net7.0\Heranca.exe
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\bin\Debug\net7.0\Heranca.deps.json
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\bin\Debug\net7.0\Heranca.runtimeconfig.json
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\bin\Debug\net7.0\Heranca.dll
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\bin\Debug\net7.0\Heranca.pdb
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\obj\Debug\net7.0\Heranca.csproj.AssemblyReference.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\obj\Debug\net7.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\obj\Debug\net7.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\obj\Debug\net7.0\Heranca.AssemblyInfo.cs
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\obj\Debug\net7.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\obj\Debug\net7.0\Heranca.dll
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\obj\Debug\net7.0\refint\Heranca.dll
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\obj\Debug\net7.0\Heranca.pdb
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\obj\Debug\net7.0\Heranca.genruntimeconfig.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\TRABALHOS\TrabalhoHeranca\Heranca\obj\Debug\net7.0\ref\Heranca.dll

@@ -1,0 +1,15 @@
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\bin\Debug\net7.0\composicao_banco.exe
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\bin\Debug\net7.0\composicao_banco.deps.json
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\bin\Debug\net7.0\composicao_banco.runtimeconfig.json
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\bin\Debug\net7.0\composicao_banco.dll
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\bin\Debug\net7.0\composicao_banco.pdb
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\obj\Debug\net7.0\composicao_banco.csproj.AssemblyReference.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\obj\Debug\net7.0\composicao_banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\obj\Debug\net7.0\composicao_banco.AssemblyInfoInputs.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\obj\Debug\net7.0\composicao_banco.AssemblyInfo.cs
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\obj\Debug\net7.0\composicao_banco.csproj.CoreCompileInputs.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\obj\Debug\net7.0\composicao_banco.dll
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\obj\Debug\net7.0\refint\composicao_banco.dll
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\obj\Debug\net7.0\composicao_banco.pdb
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\obj\Debug\net7.0\composicao_banco.genruntimeconfig.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\composicao_banco\obj\Debug\net7.0\ref\composicao_banco.dll

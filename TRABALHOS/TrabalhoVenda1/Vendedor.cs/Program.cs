@@ -1,0 +1,1 @@
+﻿Vendedor v = new  Vendedor ("João", 10.0);

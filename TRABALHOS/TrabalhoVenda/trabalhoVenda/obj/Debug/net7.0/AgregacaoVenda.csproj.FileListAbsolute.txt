@@ -1,0 +1,15 @@
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.exe
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.deps.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.runtimeconfig.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\bin\Debug\net7.0\AgregacaoVenda.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.csproj.AssemblyReference.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.AssemblyInfoInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.AssemblyInfo.cs
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\obj\Debug\net7.0\refint\AgregacaoVenda.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\obj\Debug\net7.0\AgregacaoVenda.genruntimeconfig.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\15. AgregacaoVenda\obj\Debug\net7.0\ref\AgregacaoVenda.dll

@@ -1,0 +1,15 @@
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\bin\Debug\net7.0\Produto.cs.exe
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\bin\Debug\net7.0\Produto.cs.deps.json
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\bin\Debug\net7.0\Produto.cs.runtimeconfig.json
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\bin\Debug\net7.0\Produto.cs.dll
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\bin\Debug\net7.0\Produto.cs.pdb
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\obj\Debug\net7.0\Produto.cs.csproj.AssemblyReference.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\obj\Debug\net7.0\Produto.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\obj\Debug\net7.0\Produto.cs.AssemblyInfoInputs.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\obj\Debug\net7.0\Produto.cs.AssemblyInfo.cs
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\obj\Debug\net7.0\Produto.cs.csproj.CoreCompileInputs.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\obj\Debug\net7.0\Produto.cs.dll
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\obj\Debug\net7.0\refint\Produto.cs.dll
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\obj\Debug\net7.0\Produto.cs.pdb
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\obj\Debug\net7.0\Produto.cs.genruntimeconfig.cache
+C:\Users\Evelin\OneDrive\Documentos\4Termo\OO\trabalho_venda\Produto.cs\obj\Debug\net7.0\ref\Produto.cs.dll
